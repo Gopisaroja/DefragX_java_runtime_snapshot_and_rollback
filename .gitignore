@@ -1,0 +1,10 @@
+.m2repo/
+.tools/
+pptx_unpacked/
+DefragX-JavaFX-Project-updated.zip
+project/
+target/
+**/target/
+*.db
+*.db-wal
+*.db-shm
